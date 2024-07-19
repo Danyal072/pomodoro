@@ -3,9 +3,9 @@
   margin: 0;
   box-sizing: border-box;
   font-family: 'Fira Sans', sans-serif;
-  font-size: 20px;
 }
 html {
+  font-size: 20px;
     letter-spacing: 0.8px;
     min-height: 100vh;
     color: #d8e9ef;
